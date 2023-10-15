@@ -1,0 +1,28 @@
+/** LIVE DEMO */
+h2 {
+    color: #db6186;
+    font-size: vm – 1vm;
+    margin-bottom: 0;
+}
+body {
+  background-color: pink;
+  
+}
+li {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: vm – 1vm
+}
+ 
+img {
+  border: black solid 1px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+h4 {
+  margin-bottom: 0;
+}
+p {
+  margin-top: 0;
+}
